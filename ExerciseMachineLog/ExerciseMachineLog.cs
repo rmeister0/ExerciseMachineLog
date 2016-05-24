@@ -14,8 +14,8 @@ namespace ExerciseMachineLog
 					VerticalOptions = LayoutOptions.Center,
 					Children = {
 						new Label {
-							XAlign = TextAlignment.Center,
-							Text = "Welcome to Xamarin Forms!"
+							HorizontalTextAlignment = TextAlignment.Center,
+							Text = "Welcome to Project Ahnuld!"
 						}
 					}
 				}
